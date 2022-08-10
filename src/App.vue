@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <router-view />
-    <h1>头条项目</h1>
+    <h1>凯哥头条</h1>
   </div>
 </template>
 
